@@ -28,4 +28,4 @@ Content-Type: application/json
 ###
 
 ###
-POST http://localhost:8080/auth/public/login
+POST h ttp://localhost:8080/auth/public/login
